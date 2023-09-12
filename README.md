@@ -12,4 +12,5 @@ jQuery + plugins,
 Java 8 Stream and Time API, 
 PostgreSQL,
 HSQLDB,
+Lombok,
 Деплой на собственный выделенный сервер.
